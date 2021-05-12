@@ -1,5 +1,5 @@
 {
-    "name": "clousale/amazon-sp-api-php",
+    "name": "kbug0007/amazon-sp-api-php",
     "description": "",
     "keywords": [
         "api",
@@ -8,16 +8,16 @@
         "sp-api",
         "clousale"
     ],
-    "homepage": "http://www.clousale.com",
+    "homepage": "http://blog.common-services.com",
     "license": "MIT",
     "authors": [
         {
-            "name": "ClouSale",
-            "homepage": "https://www.clousale.com"
+            "name": "Sellersket",
+            "homepage": "https://blog.common-services.com"
         }
     ],
     "require": {
-        "php": ">=7.3",
+        "php": ">=7.2",
         "ext-curl": "*",
         "ext-json": "*",
         "ext-mbstring": "*",
